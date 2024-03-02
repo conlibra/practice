@@ -16,7 +16,7 @@
 ### 3 task
     
 - [ ] In HTML add a text element inside squares
-- [ ] Center the text element inside squares Using CSS
+- [ ] Center the text element inside squares using CSS
     
 ### 4 task
 
