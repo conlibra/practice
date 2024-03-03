@@ -31,6 +31,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body, html {
+  width: 100vw;
+  height: 100vh;
+}
 ```
 
 </details>
